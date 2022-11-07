@@ -1,0 +1,26 @@
+article > * { width: 750px; margin: 0 auto;
+}
+article h1,article  h2, article h3, article h4, article h5 { font-family: 'PT Sans Caption', sans-serif; font-weight: bold;
+}
+article h1 { margin-top: 67px; font-size: 38px; line-height: 45px;
+}
+article p, li{ margin-top: 8px; font-family: 'PT Sans Caption', sans-serif; font-size: 20px; line-height: 32px;
+}
+article h1 + p + p { margin-top: 30px;
+}
+article h2 { margin-top: 43px; font-size: 32px; line-height: 36px; color: rgba(0, 0, 0, .8);
+}
+article p, blockquote, article, li { margin-top: 29px; font-size: 20px; line-height: 34px;
+}
+article img { display: block; width: 700px; margin: 79px auto 0;
+}
+article }
+article img + p,
+article img + blockquote,
+article img + ul { margin-top: 77px;
+}
+article h2 + img { margin-top: 82px;
+}
+article  li {
+  list-style-type: circle;
+}
